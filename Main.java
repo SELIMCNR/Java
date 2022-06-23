@@ -1,7 +1,7 @@
 class Main {
   public static void main(String[] args) {
     //camelCase
-    //Tekrar eden işlemleri tek kodda değiştir
+    //Dont repeat yourself
     
    String internetSubeButonu="İnternet Şubesine gelin";    
     System.out.println(internetSubeButonu);
